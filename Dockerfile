@@ -1,4 +1,4 @@
-FROM centos_compile_utest:6
+FROM flobo/centos_compile_utest:6
 MAINTAINER The U-TEST Team
 
 ENV \
